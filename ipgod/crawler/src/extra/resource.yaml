@@ -1,0 +1,11 @@
+315070700H-000015:
+  - pdf: http://opendata.cwb.gov.tw/opendatadoc/DIV2/A0002-001.pdf
+  - xml: http://opendata.cwb.gov.tw/govdownload?dataid=O-A0002-001&authorizationkey=rdec-key-123-45678-011121314
+
+315070700H-000032:
+  - xml: http://opendata.cwb.gov.tw/govdownload?dataid=O-A0017-001&authorizationkey=rdec-key-123-45678-011121314
+
+313200000G-000158:
+  - xml: https://data.wra.gov.tw/Service/OpenData.aspx?format=xml&id=2D09DB8B-6A1B-485E-88B5-923A462F475C
+  - csv: https://data.wra.gov.tw/Service/OpenData.aspx?format=csv&id=2D09DB8B-6A1B-485E-88B5-923A462F475C
+  - json: https://data.wra.gov.tw/Service/OpenData.aspx?format=json&id=2D09DB8B-6A1B-485E-88B5-923A462F475C

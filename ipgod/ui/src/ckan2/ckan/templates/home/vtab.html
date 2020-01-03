@@ -1,0 +1,11 @@
+{% extends "page.html" %}
+
+{% block subtitle %}{{ _('Visualization') }}{% endblock %}
+
+{% block breadcrumb_content %}
+  <li class="active">{% link_for _('Visualization'), controller='home', action='visual' %}</li>
+{% endblock %}
+
+<li>hello</li>
+
+{% block secondary %}{% endblock %}

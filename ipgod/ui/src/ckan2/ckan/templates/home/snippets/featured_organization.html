@@ -1,0 +1,15 @@
+{% set organizations = h.get_featured_organizations() %}
+
+{% for organization in organizations %}
+  <div class="box">
+ <section class="group-list module module-narrow module-shallow">
+ 	 <header class="module-heading">
+  	<h3>{{ _('{0} 組織').format(g.site_title) }}</h3>
+  	 </header>
+  	 </section>
+  	    <div class="inner">
+    {% snippet 'snippets/organization_item.html', organization=organization, truncate=50, truncate_title=35 %}
+    </div>
+  </div>
+
+{% endfor %}

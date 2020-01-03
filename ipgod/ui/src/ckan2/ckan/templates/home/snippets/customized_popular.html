@@ -1,0 +1,19 @@
+{% set intro = g.site_intro_text %}
+
+<div class="box" style="padding-bottom: 20px;">
+  <header class="hp-header-bg">
+    {% if intro %}
+      {{ h.render_markdown(intro) }}
+    {% else %}
+      <h3 class="page-heading module-content">
+      Popular Data
+      </h3>
+    {% endif %}
+  </header>
+
+  {# customized #}
+  {% block home_image %}
+  {% snippet 'snippets/popular_data.html' %}
+  {% endblock %}
+
+</div>

@@ -1,0 +1,192 @@
+機關代碼,機關名稱,英文名稱,上層機關
+200000000A,總統府,Office of the President,
+201000000A,中央研究院,Academia Sinica,總統府
+202000000A,國史館,Academia Historica,總統府
+A00000000A,行政院,The Executive Yuan,
+301000000A,內政部,Ministry of the Interior,行政院
+A01010000C,內政部警政署,National Police Administration,內政部
+301020000G,內政部營建署,Construction and Planning Agency Ministry of the Interior (CPAMI) ,內政部
+301060000C,內政部消防署,National Fire Agency of the Ministry of the Interior R.O.C.,內政部
+A01040000A,內政部役政署,Conscription Administration,內政部
+A01070000G,內政部建築研究所,"Architecture and Building Research Institute, MOI",內政部
+301000100G,內政部國土測繪中心,National Land Surveying and Mapping Center,內政部
+301000200G,內政部土地重劃工程處,Land Consolidation Engineering Bureau Ministry of the Interior,內政部
+A03000000B,外交部,Ministry of Foreign Affairs,行政院
+A03010000B,外交部領事事務局,"Bureau of Consular Affairs,Ministry of Foreign Affairs,Republic of China(Taiwan)",外交部
+A05000000C,國防部,Ministry of National Defense R.O.C,行政院
+A07000000D,財政部,Ministry of Finance,行政院
+A07010000D,財政部國庫署,"National Treasury Administration, Ministry of Finance",財政部
+A07020000D,財政部賦稅署,"Department of Taxation, MOF",財政部
+A07090000D,財政部國有財產署,"National Property Administration,Ministry of Finance",財政部
+A07030000D,財政部臺北國稅局,"National Taxation Bureau of Taipei,Ministry of Finance",財政部
+A07040000D,財政部高雄國稅局,"National Taxation Bureau of Kaohsiung,Ministry of Finance",財政部
+A07080000D,財政部關務署,Customs Administration,財政部
+A07050000D,財政部北區國稅局,"National Taxation Bureau of the Northern Area,Ministry of Finance",財政部
+A07060000D,財政部中區國稅局,"National Taxation Bureau of the Central Area,Ministry of Finance",財政部
+A07070000D,財政部南區國稅局,"National Taxation Bureau of the Southern Area,Ministry of Finance",財政部
+A07100000D,財政部財政資訊中心,"Fiscal Information Agency,Ministry of Finance",財政部
+A07000100D,財政部財政人員訓練所,"Training Institute, Ministry of Finance",財政部
+A09000000E,教育部,Ministry of Education,行政院
+A09090000E,國立臺灣科學教育館,National Taiwan Science Education Center,教育部
+A09000100E,國立臺灣藝術教育館,National Taiwan Institute of Arts Education,教育部
+A09070000E,國立自然科學博物館,National Museum of Natural Science,教育部
+A09050000E,國家圖書館,National Central Library,教育部
+A09080000E,國立科學工藝博物館,National Science and Technology Museum,教育部
+A09100000E,國立教育廣播電臺,National Educational Radio Station,教育部
+A09060000E,國立海洋生物博物館,National Museum of Marine Biology,教育部
+A09040000E,國家教育研究院,National Acadeny for Educational Research,教育部
+A09010000E,教育部體育署,"Sports Administration,Ministry of Education",教育部
+A09030000E,教育部國民及學前教育署,"K-12 Education Administration,Ministry of Education",教育部
+A09110000E,國立公共資訊圖書館,National Library of Public Information,教育部
+A09120000E,國立臺灣圖書館,National Taiwan Library,教育部
+A09020000E,教育部青年發展署,"Youth Development Administration, Ministry of Education",教育部
+A11000000F,法務部,Ministry of Justice,行政院
+A11010000F,法務部調查局,"Investigation Bureau, MOJ",法務部
+A11050000F,最高法院檢察署,Public Prosecutor-General is Office for the Supreme Court,法務部
+A11080000F,法務部法醫研究所,Intitute of Forensic Medicine,法務部
+A11000100F,福建高等法院金門分院檢察署,Prosecutors Office for Kinmen Branch of Fukien High Court,法務部
+A11000200F,福建金門地方法院檢察署,Prosecutors Office for Fukien Kinmen District Court,法務部
+A11020000F,法務部行政執行署,Administrative Enforcement Agency ,法務部
+A11060000F,臺灣高等法院檢察署,Prosecutors Office for Taiwan High Court,法務部
+A11040000F,法務部矯正署,"Agency of Corrections, Ministry of Justice",法務部
+A11030000F,法務部廉政署,"Agency Against Corruption, Ministry of Justice",法務部
+A11000300F,福建連江地方法院檢察署,Fujian Lienchiang District Prosecutors Office,法務部
+313000000G,經濟部,Ministry of Economic Affairs,行政院
+313010000G,經濟部國際貿易局,"Bureau of ForeignTrade, MOEA",經濟部
+313020000G,經濟部工業局,Industrial Development Bureau,經濟部
+313050000G,經濟部中小企業處,"Small and Medium Enterprise Administration, MOEA",經濟部
+313060000G,經濟部中央地質調查所,Central Geological Survey MOEA,經濟部
+313070000G,經濟部加工出口區管理處,"Export Processing Zone Administration, MOEA",經濟部
+313090000G,經濟部投資審議委員會,"Investment Commission, MOEA",經濟部
+313110000K,經濟部國營事業委員會,"State Enterprise Commission, MOEA",經濟部
+313130000G,經濟部貿易調查委員會,"International Trade Commission, MOEA",經濟部
+313150000G,經濟部標準檢驗局,"Bureau of Standards Metrology and Inspection, MOEA",經濟部
+313160000G,經濟部智慧財產局,"Intellectual Property Office, MOEA",經濟部
+313190000L,經濟部礦務局,"Bureau of Mine, MOEA",經濟部
+313200000G,經濟部水利署,"Water Resources Agency,Ministry of Economic Affairs",經濟部
+313600000K,經濟部專業人員研究中心,"Professional Staff Reaserch Center, MOEA",經濟部
+313210000G,經濟部能源局,"Bureau of Energy, Ministry of Economic Affairs",經濟部
+315000000H,交通部,Ministry of Transportation and Communications,行政院
+315050000M,交通部臺灣區國道高速公路局,"Taiwan Area National Freeway Bureau, MOTC",交通部
+315060000H,交通部民用航空局,"Civil Aeronantics Administration, MOTC",交通部
+315070000H,交通部中央氣象局,"Central Weather Bureau, MOTC",交通部
+315080000H,交通部觀光局,"Tourism Bureau, Ministry of Transportation and communications Republic of China",交通部
+315240000H,交通部鐵路改建工程局,"Railway Reconstruction Bureau, Ministry Of Transportation and Communications",交通部
+315100000H,交通部運輸研究所,"Institute of Transportation, MOTC",交通部
+315120000H,交通部臺灣區國道新建工程局,"Taiwan Area National Expressway Engineering Bureau, MOTC",交通部
+315160000H,交通部高速鐵路工程局,"Bureau of High Speed Rail, MOTC",交通部
+315250000M,交通部公路總局,Directorate General of Highways,交通部
+315180000M,交通部臺灣鐵路管理局,"Taiwan Railway Administration, MOTC",交通部
+317000000A,蒙藏委員會,Mongolian and Tibetan Affairs Commission,行政院
+A49000000B,僑務委員會,"Overseas Compatriot Affairs Commission, R.O.C.(Taiwan)",行政院
+A51000000A,國軍退除役官兵輔導委員會,"Veterans Affairs Commission, EY",行政院
+A60000000E,國立故宮博物院,National Palace Museum,行政院
+337000000G,行政院原子能委員會,"Atomic Energy Commission, EY",行政院
+337010000G,行政院原子能委員會核能研究所,"Institute of Nuclear Energy Research, AEC, EY",行政院原子能委員會
+337040000G,行政院原子能委員會放射性物料管理局,Fuel Cycle And Materials Administration Atomic Energy Council,行政院原子能委員會
+337050000G,行政院原子能委員會輻射偵測中心,"Radiation Monitoring Center , AEC, EY",行政院原子能委員會
+345000000G,行政院農業委員會,"Council of Agriculture, Executive Yuan, R.O.C.",行政院
+345020000G,行政院農業委員會漁業署,"Fishery Agency, COA, EY",行政院農業委員會
+345030000G,行政院農業委員會動植物防疫檢疫局,"Bureau of Animal and Plant Health Inspection and Quarantine, COA, EY",行政院農業委員會
+345040000G,行政院農業委員會林務局,"Forestry Bureau, COA, EY",行政院農業委員會
+345050000G,行政院農業委員會水土保持局,"Soil and Water Conservation Bureau, COA",行政院農業委員會
+345210000G,行政院農業委員會農業試驗所,"Taiwan Agricultural Research Institute, COA, EY",行政院農業委員會
+345220000G,行政院農業委員會林業試驗所,"Taiwan Forestry Research Institute, COA, EY",行政院農業委員會
+345230000G,行政院農業委員會水產試驗所,Fisheries Research Institute,行政院農業委員會
+345240000G,行政院農業委員會畜產試驗所,"Livestock Research Institute Council of Agriculture, Executive Yuan",行政院農業委員會
+345250000G,行政院農業委員會家畜衛生試驗所,"Animal Health Research Institute, COA, EY",行政院農業委員會
+345260000G,行政院農業委員會農業藥物毒物試驗所,"Taiwan Agricultural Chemicals and Toxic Substances Research Institute, COA, EY",行政院農業委員會
+345270000G,行政院農業委員會特有生物研究保育中心,"Taiwan Endemic Species Research Institute, COA, EY",行政院農業委員會
+345070000G,行政院農業委員會農糧署,"Agriculture and Food Agency, Council of Agriculture, Executive Yuan",行政院農業委員會
+345430000G,行政院農業委員會屏東農業生物技術園區籌備處,Pingtung Agricultural Biotechnology Park,行政院農業委員會
+A59000000N,中央銀行,Central Bank of the Republic of China(Taiwan),行政院
+A59010000K,中央印製廠,Central Engraving and Printing Plant,中央銀行
+A59020000K,中央造幣廠,Central Mint Factory,中央銀行
+A61000000A,中央選舉委員會,Central Election Commission,行政院
+355000000I,行政院環境保護署,"Environmental Protection Administration, EY",行政院
+355010000I,行政院環境保護署環境檢驗所,"Environmental Analysis Laboratory,EPA,Executive Yuan, R.O.C.",行政院環境保護署
+355020000I,行政院環境保護署環境保護人員訓練所,"Environmental Professionals Training Institute , EPA, EY",行政院環境保護署
+357000000A,行政院大陸委員會,"Mainland Affairs Council, EY",行政院
+A62000000G,公平交易委員會,"Fair Trade Commission, EY",行政院
+360000000G,行政院公共工程委員會,"Public Construction Commisssion, EY",行政院
+A53000000A,原住民族委員會,"Council of Indigenous Peoples, Executive Yuan",行政院
+363000000C,行政院海岸巡防署,"Coast Guard Administration, EY",行政院
+363010000C,行政院海岸巡防署海岸巡防總局,Coastal Patrol Directorate General,行政院海岸巡防署
+363020000C,行政院海岸巡防署海洋巡防總局,"Ocean Guard Headquarters, CGA, EY",行政院海岸巡防署
+371000000A,福建省政府,Fukien Provincial Government,行政院
+375000000A,臺灣省政府,Taiwan Province Government,行政院
+386000000A,臺灣省諮議會,Taiwan Provincial Council,行政院
+A55000000A,客家委員會,"Council for Hakka Affairs, The Executive Yuan",行政院
+A55000100A,客家委員會客家文化發展中心,Taiwan Hakka Culture Development Center,客家委員會
+A45000000D,金融監督管理委員會,"Financial Supervisory Commission , Executive Yuan",行政院
+A45030000D,金融監督管理委員會保險局,"Financial Supervisory Commission, Insurance Bureau",金融監督管理委員會
+A45040000D,金融監督管理委員會檢查局,"Financial Examination Bureau, Financial Supervisory Commssion",金融監督管理委員會
+A45010000D,金融監督管理委員會銀行局,"Banking Bureau, Financial Supervisory Commission, Executive Yuan, R.O.C.",金融監督管理委員會
+A45020000D,金融監督管理委員會證券期貨局,"Securities and Futures Bureau, Financial Supervisory Commission, Executive Yuan, R.O.C.",金融監督管理委員會
+A63000000H,國家通訊傳播委員會,National Communications Commission,行政院
+A17000000J,勞動部,Ministry of Labor,行政院
+A21000000I,衛生福利部,Ministry of Health and Welfare,行政院
+A21010000I,衛生福利部疾病管制署,Centers for Disease Control,衛生福利部
+A25000000E,文化部,Ministry of Culture,行政院
+A27000000G,科技部,MOST,行政院
+A27010000G,科技部新竹科學工業園區管理局,HSPB,科技部
+A27020000G,科技部中部科學工業園區管理局,CTSPB,科技部
+A27030000G,科技部南部科學工業園區管理局,STSPB,科技部
+A41000000G,國家發展委員會,National Development Council,行政院
+A41010000A,國家發展委員會檔案管理局,National Archives Administration,國家發展委員會
+A57000000A,行政院主計總處,"Directorate General of Budget, Accounting and Statistics, Executive Yuan, R.O.C.",行政院
+A58000000A,行政院人事行政總處,"Directorate-General of Personnel Administration, Executive Yuan",行政院
+A58010000A,行政院人事行政總處公務人力發展中心,"Civil Service Development Institute, Directorate-General of Personnel Administration",行政院人事行政總處
+A58020000A,行政院人事行政總處地方行政研習中心,"Regional Civil Services Development Institute, DGPA",行政院人事行政總處
+A00010000H,飛航安全調查委員會,Aviation Safety Council,行政院
+400000000A,立法院,The Legislative Yuan (Branch),
+500000000F,司法院,The Judicial Yuan (Branch),
+600000000A,考試院,The Examination Yuan (Branch),
+601000000A,考選部,Ministry of Examination,考試院
+602000000A,銓敘部,Ministry of Civil Service,考試院
+602020000A,公務人員退休撫卹基金管理委員會,Public Service Pension Fund Management Board Copyright,銓敘部
+603000000A,公務人員退休撫卹基金監理委員會,Public Service Pension Fund Supervisory Board,考試院
+604000000A,公務人員保障暨培訓委員會,Civil Servants Protection and Training Commission,考試院
+700000000A,監察院,The Control Yuan (Branch),
+701000000A,審計部,Nation Audit Office,監察院
+376870000A,基隆市議會,Keelung Municipal Council,基隆市
+376570000A,基隆市政府,Keelung City Government,基隆市
+381000000A,臺北市議會,Taipei City Council,臺北市
+379000000A,臺北市政府,Taipei City Government,臺北市
+376740000A,新竹縣議會,Hsinchu County Council,新竹縣
+376440000A,新竹縣政府,Hsin-Chu County Government,新竹縣
+376880000A,新竹市議會,Council of Hsinchu City,新竹市
+376580000A,新竹市政府,Hsinchu City Government,新竹市
+376750000A,苗栗縣議會,Miaoli County Council,苗栗縣
+376450000A,苗栗縣政府,Miaoli County Government,苗栗縣
+376770000A,彰化縣議會,Council of Changhua County,彰化縣
+376470000A,彰化縣政府,Changhua County Government,彰化縣
+376780000A,南投縣議會,Council of Nantou County,南投縣
+376480000A,南投縣政府,Nantou County Government,南投縣
+376790000A,雲林縣議會,Yunlin County Council,雲林縣
+376490000A,雲林縣政府,Yunlin County Government,雲林縣
+376800000A,嘉義縣議會,Chiayi County Council,嘉義縣
+376500000A,嘉義縣政府,Chiayi County Government,嘉義縣
+376900000A,嘉義市議會,Council of Chiayi City,嘉義市
+376600000A,嘉義市政府,Chiayi City Government,嘉義市
+376830000A,屏東縣議會,Council of Pingtung County,屏東縣
+376530000A,屏東縣政府,Pingtung County Government,屏東縣
+376720000A,宜蘭縣議會,Ylan County Council,宜蘭縣
+376420000A,宜蘭縣政府,E-Land County Government,宜蘭縣
+376850000A,花蓮縣議會,Council of Hualien County,花蓮縣
+376550000A,花蓮縣政府,Hualien County Government,花蓮縣
+376840000A,臺東縣議會,Taitung County Council,臺東縣
+376540000A,臺東縣政府,Taitung County Government,臺東縣
+376860000A,澎湖縣議會,Council of Penghu County,澎湖縣
+376560000A,澎湖縣政府,Penghu County Government,澎湖縣
+371750000A,金門縣議會,Council of Jinmen (Kinmen) County,金門縣
+371020000A,金門縣政府,"Kinmen County Government, FPG",金門縣
+371760000A,連江縣議會,Council of Lianjiang County,連江縣
+371030000A,福建省連江縣政府,Fukien Province Lienchiang County Government,連江縣
+384000000A,新北市議會,New Taipei City Council,新北市
+382000000A,新北市政府,New Taipei City Government,新北市
+387000000A,臺中市政府,Taichung City Government,臺中市
+396000000A,臺南市議會,Tainan City Council,臺南市
+395000000A,臺南市政府,Tainan City Government,臺南市
+397000000A,高雄市政府,Kaohsiung City Government,高雄市
+380000000A,桃園市政府,Taoyuan City,桃園市

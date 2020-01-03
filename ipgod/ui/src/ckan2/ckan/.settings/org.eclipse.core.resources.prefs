@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//config/environment.py=utf-8
+encoding//config/install.py=utf-8
+encoding//config/routing.py=utf-8
+encoding//controllers/admin.py=utf-8
+encoding//controllers/api.py=utf-8
+encoding//controllers/group.py=utf-8
+encoding//controllers/home.py=utf-8
+encoding//lib/helpers.py=utf-8
+encoding//model/group.py=utf-8
+encoding//tests/helpers.py=utf-8

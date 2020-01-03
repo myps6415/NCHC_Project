@@ -1,0 +1,22 @@
+{% ckan_extends %}
+
+
+{% block most_popular %}
+<div class="box">
+	 <section class="group-list module module-narrow module-shallow">
+ 	 <header class="module-heading">
+  	<h3>{{ _('{0} 熱門資料集').format(g.site_title) }}</h3>
+  	 </header>
+  	 </section>
+ 
+ <div class="inner">
+  	    	
+    {% for group in h.example_theme_most_popular_groups() %}
+    
+      <ul> {{group.display_name}} </ul>
+    {% endfor %}
+  
+   {{ super() }}
+ </div>
+</div>
+{% endblock %}

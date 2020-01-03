@@ -1,0 +1,27 @@
+{% extends "page.html" %}
+{% block subtitle %} {{ _('Suggest') }} {% endblock %}
+
+{% block primary_content %}
+
+  {% if c.userobj %}
+
+    <h1>Hi {{c.userobj.fullname}} !!!</h1>
+    <h2>Please leave your commit   </h2>
+    <h2>We will deal with it asap </h2>
+    {{h.disqus_comments()}}
+    {{h.disqus_recent()}}
+
+  {% endif %}
+  {% if not c.userobj %}
+
+    <h1>
+      You are not log in !!!!
+    </h1>
+    <h4>
+      Please log in first to leave commit
+    </h4>
+
+  {% endif %}
+
+{% endblock %}
+
